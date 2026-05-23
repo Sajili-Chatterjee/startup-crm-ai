@@ -129,17 +129,17 @@ Frontend (Next.js + React) -> REST API Layer (Node.js + Express) -> Authenticati
 
 # 🚀 Deployment
 Deploy Frontend on Vercel
-ii. Push the repository to GitHub
-iii. Import project into Vercel
-iv. Configure environment variables
-v. Deploy instantly
+- Push the repository to GitHub
+- Import project into Vercel
+- Configure environment variables
+- Deploy instantly
 
 # 🔒 Security Features
-JWT-based authentication
-Protected API routes
-Environment variable protection
-Secure backend architecture
-Input validation support
+- JWT-based authentication
+- Protected API routes
+- Environment variable protection
+- Secure backend architecture
+- Input validation support
 
 # 📱 Responsive Design
 
@@ -153,43 +153,49 @@ The platform is optimized for:
 # 🎯 Future Scope & Enhancements
 ## 📌 Planned Features
 ### 🤖 Advanced AI CRM Automation
-AI-generated customer responses
-Automated lead qualification
-AI-driven customer segmentation
-Smart sales forecasting
+- AI-generated customer responses
+- Automated lead qualification
+- AI-driven customer segmentation
+- Smart sales forecasting
+- 
 ### 📊 Advanced Analytics
-Real-time business intelligence
-Predictive analytics dashboard
-AI-generated startup reports
+- Real-time business intelligence
+- Predictive analytics dashboard
+- AI-generated startup reports
+
 ### 📧 Communication Integrations
-Gmail integration
-WhatsApp CRM support
-Slack integration
-Automated email campaigns
+- Gmail integration
+- WhatsApp CRM support
+- Slack integration
+- Automated email campaigns
+
 ### 👥 Team Collaboration
-Multi-user workspaces
-Role-based access control
-Startup team management
-Internal communication modules
+- Multi-user workspaces
+- Role-based access control
+- Startup team management
+- Internal communication modules
+
 ### ☁️ Cloud Scalability
-Docker containerization
-Kubernetes deployment support
-CI/CD automation pipelines
-Microservices architecture migration
+- Docker containerization
+- Kubernetes deployment support
+- CI/CD automation pipelines
+- Microservices architecture migration
 ### 🔔 Real-Time Functionalities
-Live notifications
-Real-time chat support
-WebSocket integration
+- Live notifications
+- Real-time chat support
+- WebSocket integration
+
 ### 📈 Business Growth Features
-Investor tracking
-Startup funding pipeline
-Meeting scheduler
-Task & project management
+- Investor tracking
+- Startup funding pipeline
+- Meeting scheduler
+- Task & project management
+
 ### 🔐 Enterprise Security
-OAuth login
-Two-factor authentication
-API rate limiting
-Advanced audit logging
+- OAuth login
+- Two-factor authentication
+- API rate limiting
+- Advanced audit logging
 
 # 📊 Project Highlights
 
