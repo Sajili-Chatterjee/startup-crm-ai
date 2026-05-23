@@ -125,16 +125,7 @@ This project demonstrates full-stack web development, authentication systems, re
 ---
 
 # 🧠 System Architecture
-
-Frontend (Next.js + React)
-        ↓
-REST API Layer (Node.js + Express)
-        ↓
-Authentication Middleware (JWT)
-        ↓
-MongoDB Database
-        ↓
-AI Services / OpenAI Integration
+Frontend (Next.js + React) -> REST API Layer (Node.js + Express) -> Authentication Middleware (JWT) -> MongoDB Database -> AI Services / OpenAI Integration
 
 # 🚀 Deployment
 Deploy Frontend on Vercel
