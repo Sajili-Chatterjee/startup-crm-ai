@@ -31,16 +31,6 @@ export default function DashboardLayout({
 
                 <Navbar />
 
-                <div className="flex justify-end px-10 pt-6">
-
-                    <button
-                        onClick={handleLogout}
-                        className="bg-red-500 hover:bg-red-600 text-white px-5 py-2 rounded-2xl font-semibold transition"
-                    >
-                        Logout
-                    </button>
-                </div>
-
                 <main className="p-10">
                     {children}
                 </main>
